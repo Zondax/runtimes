@@ -60,3 +60,4 @@ jobs:
             echo "Failed to trigger remote test. HTTP status code: $response"
             exit 1
           fi
+# trigger webhook creation
